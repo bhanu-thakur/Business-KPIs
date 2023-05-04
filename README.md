@@ -152,3 +152,177 @@ Number of Budget Iterations:
 This is a measure of the accuracy and efficiency of the company’s budgeting process. It is the number of times a budget is reworked during the budget creation cycle. A highly manual process can be more error-prone, leading to a greater number of iterations before the company arrives at an accurate budget. Other reasons for an increased number of iterations include extensive internal negotiations, changes in business strategy or changes in the macro-economic climate. A high number of budget iterations can lead to delays and an increased budget cycle time, which can hinder the company’s ability to start executing toward the goals defined in the budget.
 
 Number of budget iterations = Total amount of budget versions created
+
+
+
+Retail Industry:
+
+Sales Growth Rate: (Current Period Sales - Previous Period Sales) / Previous Period Sales x 100%
+Gross Profit Margin: (Revenue - Cost of Goods Sold) / Revenue x 100%
+Inventory Turnover: Cost of Goods Sold / Average Inventory
+Customer Acquisition Cost (CAC): Total Sales and Marketing Costs / Number of New Customers Acquired
+Average Order Value (AOV): Total Sales / Number of Orders
+Conversion Rate: Number of Orders / Number of Website Visitors x 100%
+Customer Lifetime Value (CLV): Average Order Value x Number of Repeat Purchases x Average Customer Lifespan
+Customer Retention Rate: ((Number of Customers at the End of a Period - Number of Customers Acquired During that Period) / Number of Customers at the Start of that Period) x 100%
+Net Promoter Score (NPS): (Percentage of Promoters - Percentage of Detractors) x 100%
+Manufacturing Industry:
+
+Overall Equipment Effectiveness (OEE): (Availability Rate x Performance Rate x Quality Rate) x 100%
+Production Volume: Number of Units Produced in a Given Time Period
+Scrap Rate: (Total Scrap / Total Production) x 100%
+Yield Rate: (Total Good Units / Total Units Produced) x 100%
+Capacity Utilization: (Actual Output / Maximum Output) x 100%
+Cycle Time: Total Production Time / Number of Units Produced
+On-Time Delivery: Number of Orders Delivered on Time / Total Number of Orders x 100%
+Downtime: Total Planned and Unplanned Downtime
+Defects Per Million Opportunities (DPMO): (Total Defects / Total Opportunities for Defects) x 1,000,000
+Finance Industry:
+
+Return on Equity (ROE): Net Income / Average Shareholder Equity x 100%
+Return on Investment (ROI): (Net Profit / Total Investment) x 100%
+Gross Profit: Revenue - Cost of Goods Sold
+Net Income: Total Revenue - Total Expenses
+Current Ratio: Current Assets / Current Liabilities
+Debt-to-Equity Ratio: Total Liabilities / Shareholders' Equity
+Cash Conversion Cycle (CCC): Days Inventory Outstanding + Days Sales Outstanding - Days Payable Outstanding
+Accounts Receivable Turnover: Net Credit Sales / Average Accounts Receivable
+Earnings Per Share (EPS): Net Income / Average Number of Outstanding Shares
+Healthcare Industry:
+
+Patient Satisfaction: Average Rating of Patient Satisfaction Surveys
+Hospital-Acquired Infection (HAI) Rate: (Number of HAIs / Total Number of Patient Days) x 1000
+Length of Stay (LOS): Total Number of Days a Patient is Admitted
+Average Time to Treatment: Time from Patient Arrival to Treatment Initiation
+Readmission Rate: Number of Patients Readmitted Within a Given Time Period / Total Number of Discharges x 100%
+Occupancy Rate: (Number of Inpatient Beds Occupied / Total Number of Inpatient Beds) x 100%
+Staffing Levels: Number of Staff per Patient
+Revenue per Procedure: Total Revenue / Number of Procedures Performed
+Patient Wait Time: Time Between Check-In and Being Seen by a Doctor
+Technology Industry:
+
+Churn Rate: (Number of Customers Lost During a Period / Total Number of Customers) x 100%
+Customer
+
+
+
+bhanuthakur.hm@gmail.com
+continue
+Lifetime Value (CLTV): (Average Revenue per User x Gross Margin x Customer Lifespan) - Customer Acquisition Cost
+3. Monthly Recurring Revenue (MRR): Total Monthly Subscription Revenue
+
+Average Revenue per User (ARPU): Total Revenue / Total Number of Users
+Customer Engagement Rate: Number of Active Users / Total Number of Users x 100%
+Average Time on Site: Total Time Spent on Site / Number of Website Visitors
+Cost per Click (CPC): Total Ad Spend / Number of Clicks
+Return on Ad Spend (ROAS): (Total Revenue from Ad Campaign / Total Ad Spend) x 100%
+App Store Rating: Average Rating of App Store Reviews
+Hospitality Industry:
+
+Occupancy Rate: (Number of Rooms Occupied / Total Number of Rooms) x 100%
+Average Daily Rate (ADR): Total Room Revenue / Number of Rooms Sold
+Revenue per Available Room (RevPAR): ADR x Occupancy Rate
+Food and Beverage Cost Percentage: (Total Cost of Food and Beverage Sold / Total Food and Beverage Revenue) x 100%
+Gross Operating Profit per Available Room (GOPPAR): Total Revenue - Total Operating Expenses / Number of Rooms Sold
+Customer Satisfaction Score: Average Rating of Guest Satisfaction Surveys
+Repeat Guest Rate: (Number of Repeat Guests / Total Number of Guests) x 100%
+Employee Turnover Rate: Number of Employees Who Leave / Total Number of Employees x 100%
+Net Promoter Score (NPS): (Percentage of Promoters - Percentage of Detractors) x 100%
+Real Estate Industry:
+
+Days on Market (DOM): Average Number of Days a Property is Listed for Sale
+Absorption Rate: Number of Units Sold / Total Units Available
+Average Sales Price: Total Sales Revenue / Number of Units Sold
+Net Operating Income (NOI): Gross Operating Income - Operating Expenses
+Capitalization Rate: Net Operating Income / Property Value x 100%
+Rentable Square Footage (RSF): Total Leasable Area in a Building
+Tenant Retention Rate: ((Number of Tenants at the End of a Period - Number of Tenants Lost During that Period) / Number of Tenants at the Start of that Period) x 100%
+Rental Yield: Annual Rental Income / Property Value x 100%
+Gross Rent Multiplier (GRM): Property Value / Gross Annual Rental Income
+I hope this list helps! Please note that these KPIs are just a starting point and may not be applicable to all businesses within their respective industries.
+
+
+
+
+bhanuthakur.hm@gmail.com
+give 50 more
+Sure, here are 50 more business analytics KPIs with their method of calculation, categorized by industry:
+
+Retail Industry:
+
+Sales per Square Foot: Total Sales Revenue / Total Retail Space
+Gross Margin: (Total Revenue - Cost of Goods Sold) / Total Revenue x 100%
+Conversion Rate: (Total Number of Sales / Total Number of Visitors) x 100%
+Average Order Value (AOV): Total Sales Revenue / Total Number of Orders
+Inventory Turnover: Cost of Goods Sold / Average Inventory
+Customer Lifetime Value (CLTV): (Average Revenue per Customer x Gross Margin x Customer Lifespan) - Customer Acquisition Cost
+Sales Growth Rate: (Current Period Sales - Previous Period Sales) / Previous Period Sales x 100%
+Return on Investment (ROI): (Total Sales Revenue - Total Cost of Sales) / Total Cost of Sales x 100%
+Employee Productivity: Total Sales Revenue / Total Number of Employees
+Manufacturing Industry:
+
+Overall Equipment Effectiveness (OEE): (Availability x Performance x Quality) / 100%
+Cycle Time: Time it Takes to Complete One Production Cycle
+Capacity Utilization: (Actual Output / Maximum Output) x 100%
+Defect Rate: Number of Defective Units / Total Number of Units Produced x 100%
+Manufacturing Cycle Efficiency (MCE): Value-Added Time / Total Cycle Time x 100%
+Cost of Goods Sold (COGS): Direct Materials + Direct Labor + Manufacturing Overhead
+First Pass Yield (FPY): Number of Good Units Produced / Total Number of Units Produced x 100%
+Work-in-Progress (WIP): Inventory of Goods Being Produced but Not Yet Completed
+On-Time Delivery: Number of Orders Delivered on Time / Total Number of Orders x 100%
+Finance Industry:
+
+Return on Assets (ROA): Net Income / Total Assets x 100%
+Net Interest Margin (NIM): (Total Interest Income - Total Interest Expense) / Total Assets x 100%
+Debt-to-Equity Ratio: Total Liabilities / Total Equity
+Capital Adequacy Ratio (CAR): (Total Capital / Risk-Weighted Assets) x 100%
+Net Promoter Score (NPS): (Percentage of Promoters - Percentage of Detractors) x 100%
+Customer Acquisition Cost (CAC): Total Marketing and Sales Expenses / Number of New Customers
+Average Revenue per Account (ARPA): Total Revenue / Total Number of Accounts
+Current Ratio: Current Assets / Current Liabilities
+Return on Equity (ROE): Net Income / Total Equity x 100%
+Technology Industry:
+
+Monthly Recurring Revenue (MRR): Total Monthly Subscription Revenue
+Churn Rate: Number of Customers Lost / Total Number of Customers
+Customer Acquisition Cost (CAC): Total Marketing and Sales Expenses / Number of New Customers
+Monthly Active Users (MAU): Number of Unique Users Who Logged in During a Month
+Lifetime Value (CLTV): (Average Revenue per User x Gross Margin x Customer Lifespan) - Customer Acquisition Cost
+Cost per Click (CPC): Total Ad Spend / Number of Clicks
+Return on Ad Spend (ROAS): (Total Revenue from Ad Campaign / Total Ad Spend) x 100%
+Customer Lifetime Value to Customer Acquisition Ratio (CLTV:CAC): CLTV / CAC
+Time to First Response: Average Time it Takes to Respond to a Customer Inquiry.
+
+
+
+bhanuthakur.hm@gmail.com
+continue
+Here are 10 more business analytics KPIs with their method of calculation, categorized by industry:
+
+Healthcare Industry:
+
+Patient Wait Time: Average Time a Patient Waits to See a Healthcare Provider
+Patient Satisfaction Score: Percentage of Patients Who Rate Their Experience as Positive
+Length of Stay (LOS): Average Time a Patient Spends in a Hospital or Healthcare Facility
+Bed Occupancy Rate: (Number of Beds Occupied / Total Number of Beds) x 100%
+Patient Volume: Total Number of Patients Seen Within a Specific Time Frame
+Readmission Rate: Percentage of Patients Who are Readmitted to the Hospital Within a Certain Time Frame
+Average Cost per Patient: Total Cost of Care for All Patients / Total Number of Patients
+Net Promoter Score (NPS): (Percentage of Promoters - Percentage of Detractors) x 100%
+Revenue per Available Bed (RevPAB): Total Revenue / Available Bed Days
+Staff Productivity: Total Patient Care Hours / Total Staffing Hours
+Real Estate Industry:
+
+Average Rent per Square Foot: Total Rent Collected / Total Rentable Square Footage
+Occupancy Rate: (Total Number of Leased Units / Total Number of Units) x 100%
+Cash on Cash Return: Annual Cash Flow / Total Cash Invested x 100%
+Gross Rent Multiplier (GRM): Sale Price of Property / Gross Annual Rental Income
+Capitalization Rate (Cap Rate): Net Operating Income / Property Value x 100%
+Debt Service Coverage Ratio (DSCR): Net Operating Income / Annual Debt Service
+Average Days on Market: Average Number of Days a Property is Listed for Sale Before Being Sold
+Return on Investment (ROI): (Total Income - Total Expenses) / Total Investment x 100%
+Price per Square Foot: Sale Price of Property / Total Square Footage
+Cash Flow: Total Income - Total Expenses
+
+
+
